@@ -47,3 +47,16 @@ Ultimately, it improves customer satisfaction by delivering a product that meets
 - **Requirement Validation:** Reviewing the requirements with stakeholders to ensure they are clear, feasible, and complete.
  
 ---
+## Types of Requirements
+
+### Functional Requirements
+Functional requirements specify what the system must do, describing features and functionalities. For a booking management project, examples include:
+- **User Registration and Login:** Users should be able to register and log in to the system securely.
+- **Property Search:** Users should be able to search for properties based on various filters (location, price, amenities).
+- **Booking System:** Users should be able to select a property, check availability, and book it.
+
+### Non-functional Requirements
+Non-functional requirements describe how the system should perform. These are often related to system attributes such as performance, security, and scalability. For a booking management project, examples include:
+- **Performance:** The system should be able to handle 500 concurrent users without degrading performance.
+- **Security:** User data (e.g., personal details, payment info) should be encrypted using AES-256.
+- **Scalability:** The system should be able to scale horizontally to handle increased demand during peak seasons.
