@@ -60,3 +60,8 @@ Non-functional requirements describe how the system should perform. These are of
 - **Performance:** The system should be able to handle 500 concurrent users without degrading performance.
 - **Security:** User data (e.g., personal details, payment info) should be encrypted using AES-256.
 - **Scalability:** The system should be able to scale horizontally to handle increased demand during peak seasons.
+
+--- 
+## Use Case Diagram
+![Use Case Diagram](images/alx-booking-uc.png)
+
