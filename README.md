@@ -27,7 +27,6 @@ Ultimately, it improves customer satisfaction by delivering a product that meets
 
 ---
 ## Why is Requirement Analysis Important?
----
 
 1. **Aligns Stakeholders' Expectations:**  
    Requirement analysis helps ensure that both the development team and stakeholders are on the same page, minimizing misunderstandings and aligning everyone with the project goals.
@@ -38,4 +37,13 @@ Ultimately, it improves customer satisfaction by delivering a product that meets
 3. **Foundation for Development:**  
    It provides the blueprint for design and development, ensuring that the system built aligns with user needs and business objectives, resulting in a better-quality product.
 
+---
+## Key Activities in Requirement Analysis
+
+- **Requirement Gathering:** Collecting initial high-level requirements from stakeholders via interviews, surveys, and observations.
+- **Requirement Elicitation:** Refining and clarifying requirements through techniques like brainstorming and workshops.
+- **Requirement Documentation:** Creating formal documents (use cases, specifications) to capture the system’s requirements.
+- **Requirement Analysis and Modeling:** Analyzing and modeling the requirements to identify gaps and ensure consistency.
+- **Requirement Validation:** Reviewing the requirements with stakeholders to ensure they are clear, feasible, and complete.
+ 
 ---
