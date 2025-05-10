@@ -63,5 +63,5 @@ Non-functional requirements describe how the system should perform. These are of
 
 --- 
 ## Use Case Diagram
-![Use Case Diagram](images/alx-booking-uc.png)
+![Use Case Diagram](alx-booking-uc.png)
 
